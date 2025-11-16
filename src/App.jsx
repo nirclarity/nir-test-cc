@@ -7,7 +7,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
       <div className="bg-white rounded-lg shadow-2xl p-8 max-w-md w-full">
         <h1 className="text-4xl font-bold text-gray-800 mb-4 text-center">
-          test
+          test3
         </h1>
 
         <div className="bg-gray-100 rounded-lg p-6 mb-6">
